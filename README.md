@@ -8,7 +8,7 @@ Task Tracker app was created by following [Traversrey Media`s tutorial](https://
 - [Lorem Picsum](https://picsum.photos/)
 - [Json Placeholder](https://jsonplaceholder.typicode.com/)
 ## Installing the dependencies
-### - `npm install` 
+#### - `npm install` 
 to install required dependencies mentioned in package.json
 
 ## Using Task Taracker
@@ -19,5 +19,5 @@ to install required dependencies mentioned in package.json
 - Double click on a task to toggle its reminder.
 
 ## Names page
-you can access names page by clicking the link in the footer, this page was made as a personal training
-for fetching external real APIs with axios. Names was fetched [Json Placeholder](https://jsonplaceholder.typicode.com/) and pictures from [Lorem Picsum](https://picsum.photos/)
+you can access names page by clicking the link in the footer. This page was made as a personal training
+for fetching external real APIs with [Axios](https://www.axios.com/). Names was fetched from [Json Placeholder](https://jsonplaceholder.typicode.com/) and pictures from [Lorem Picsum](https://picsum.photos/)
