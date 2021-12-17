@@ -9,7 +9,7 @@ Task Tracker app was created by following [Traversrey Media`s tutorial](https://
 - [Json Placeholder](https://jsonplaceholder.typicode.com/)
 ## Installing the dependencies
 ### `npm install` 
-        to install required dependencies mentioned in package.json
+to install required dependencies mentioned in package.json
 
 ## Using Task Taracker
 
