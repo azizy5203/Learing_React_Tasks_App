@@ -7,4 +7,5 @@
 - [Lorem Picsum](https://picsum.photos/)
 - [Json Placeholder](https://jsonplaceholder.typicode.com/)
 ## Installing the dependencies
-    run `npm install` to install required dependencies mentioned in package.json
+###     `npm install` 
+        to install required dependencies mentioned in package.json
