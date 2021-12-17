@@ -8,7 +8,7 @@ Task Tracker app was created by following [Traversrey Media`s tutorial](https://
 - [Lorem Picsum](https://picsum.photos/)
 - [Json Placeholder](https://jsonplaceholder.typicode.com/)
 ## Installing the dependencies
-#### - `npm install` 
+### - `npm install` 
 to install required dependencies mentioned in package.json
 
 ## Using Task Taracker
