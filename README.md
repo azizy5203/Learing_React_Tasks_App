@@ -17,3 +17,7 @@ to install required dependencies mentioned in package.json
 - Add the  task, day, reminder (if desired).
 - Remove tasks by clicking on `x` icon which will update the server.
 - Double click on a task to toggle its reminder.
+
+## Names page
+you can access names page by clicking the link in the footer, this page was made as a personal training
+for fetching external real APIs with axios. Names was fetched [Json Placeholder](https://jsonplaceholder.typicode.com/) and pictures from [Lorem Picsum](https://picsum.photos/)
