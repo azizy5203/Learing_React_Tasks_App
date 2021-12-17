@@ -15,7 +15,7 @@ const Header = ({title, addTask}) => {
         <div>
             <div className='header animClass'>
                 <h1>{title}</h1>
-                <Button text='add form' color='rgb(0, 180, 70)' onClicked={toggleAddTask}/>
+                <Button text='add task' color='rgb(0, 180, 70)' onClicked={toggleAddTask}/>
             </div>
             {showAddTask?<AddTask onAdd={addTask}/>:''}
         </div>

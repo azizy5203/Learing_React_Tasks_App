@@ -1,4 +1,5 @@
 # Task Tracker App
+Task Tracker app was created by following [Traversrey Media`s tutorial](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=404s)
 
 ## This React project was created using
 
@@ -12,6 +13,7 @@
 
 ## Using Task Taracker
 
+- Click add task button to view add form.
 - Add the  task, day, reminder (if desired).
 - Remove tasks by clicking on `x` icon which will update the server.
 - Double click on a task to toggle its reminder.
